@@ -1,0 +1,11 @@
+# Virtual Environment
+/env
+
+# ZIP
+*.zip
+
+# Library
+/poppler*
+
+# VSC
+.vscode
